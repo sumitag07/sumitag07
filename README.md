@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitag07
 - 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently sharpening Python and SQL skills
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me sumitgunjal07@gmail.com & https://linkedin.com/in/sumitgunjal07
 <!---
